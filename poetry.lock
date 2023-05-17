@@ -1900,14 +1900,14 @@ files = [
 
 [[package]]
 name = "pywebview"
-version = "4.0.2"
+version = "4.1"
 description = "Build GUI for your Python program with JavaScript, HTML, and CSS."
 category = "main"
 optional = false
 python-versions = "*"
 files = [
-    {file = "pywebview-4.0.2-py3-none-any.whl", hash = "sha256:c94065f16978badf29d80043d7c0c86c99793b199c46cfe3f1d15271908e2670"},
-    {file = "pywebview-4.0.2.tar.gz", hash = "sha256:59383610af1326e1b52b06d58262ce7cc54818e644aded9409751b81efb4857a"},
+    {file = "pywebview-4.1-py3-none-any.whl", hash = "sha256:d4945c3be285b1046f812032fff882cf640547b63be132016730ad5a11153304"},
+    {file = "pywebview-4.1.tar.gz", hash = "sha256:62efa24fff0b35fb8028556b6d44fc1c698a1deefa8df2c5557909af54679450"},
 ]
 
 [package.dependencies]
